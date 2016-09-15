@@ -1,0 +1,23 @@
+{
+  "name": "jest-bdd",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "w01fgang <sumin@unix-center.ru> (http://v-tour.pro/)",
+  "license": "MIT",
+  "devDependencies": {
+    "babel-jest": "15.0.0",
+    "babel-preset-es2015": "6.14.0",
+    "babel-preset-react": "6.11.1",
+    "jest": "15.1.1",
+    "react-test-renderer": "15.3.1"
+  },
+  "dependencies": {
+    "react": "15.3.1",
+    "react-dom": "15.3.1"
+  }
+}
